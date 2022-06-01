@@ -7,6 +7,7 @@ INSTALLATION//
 1. Download or clone repository
    2.Open the index.html on your browser to view webpage
 2. Use a text editor to allow for complete code viewing
+   [Link to live repo](https://jjtalamonti.github.io/05_Work_Day_Scheduler/)
 
 INSTRUCTIONS//
 
